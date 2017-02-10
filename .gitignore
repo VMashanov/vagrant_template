@@ -1,0 +1,4 @@
+.vagrant
+cm/roles
+.idea
+vagrant_template.iml

@@ -1,0 +1,5 @@
+---
+# nodejs version to install.
+nodejs_version: "v7.5.0"
+
+project_name: 'vagrant_template'
